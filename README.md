@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hi, I'm Naresh
 
-<!--
-**NareshSundaraneedi/nareshsundaraneedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oracle DBA | Oracle EBS | Exadata | OCI
 
-Here are some ideas to get you started:
+Senior Database Administrator focused on
+Oracle Database, EBS, Exadata, OCI,
+Performance Tuning, Automation and Monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Core Expertise
+
+Oracle Database
+Oracle EBS
+Oracle RAC
+Data Guard
+ASM
+RMAN
+AWR / ADDM
+SQL Tuning
+TDE
+Unified Auditing
+Exadata
+OCI
+Linux
+Shell Scripting
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+Oracle DBA Toolkit
+Oracle EBS DBA Toolkit
+Oracle Performance Toolkit
+Oracle AWR Analyzer
+Oracle Monitoring Toolkit
+OCI & Exadata Toolkit
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 What You'll Find Here
+
+SQL scripts
+DBA automation
+Performance troubleshooting
+Monitoring scripts
+Oracle EBS troubleshooting
+OCI / Exadata automation
+Technical documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 GitHub Statistics
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
